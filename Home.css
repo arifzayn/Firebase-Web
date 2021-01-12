@@ -1,0 +1,15 @@
+body,
+html {
+  height: 100%;
+}
+nav {
+  background-color: none;
+}
+
+body {
+  background-image: url("bg.gif");
+  /* background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FTZf4ZyXb0lXXi%2Fgiphy.gif&f=1&nofb=1"); */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
